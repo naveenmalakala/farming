@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0px;
+}
+.logo-image{
+    width:90px;
+    height:80px;
+    margin:20px;
+}
+.right{
+    text-align: right;
+}
+.ion{
+    color:white;
+    background-color: white;
+}
+.welcome{
+    color:green;
+    font-size:20px;
+    font-style:italic;
+    font-weight:bold;
+}
+.provide{
+    color:rgb(17, 17, 211);
+    font-size:40px;
+    font-style:normal;
+    font-weight:bold;
+}
+.natural{
+    color:rgb(17, 17, 211);
+    font-size:30px;
+    font-style:normal;
+    font-weight:bold;
+}
+.lorem{
+    color:grey;
+}
+.back-color{
+    background-color: #f1f8ff;
+    height:100%;
+    background-size: cover;
+}
+.back-color1{
+    background-color: #ced4da;
+    height:100%;
+    background-size: cover;
+}
+.veg{
+    
+    
+    color:green;
+}
+.veg1{
+    color:white
+}
+.image{
+    width:30px;
+}
+.border-circle{
+    border-radius: 50px;
+    border-style: solid;
+    width:60px;
+    height:60px;
+    color:green;
+    background-color: green;
+    padding:12px;
+    
+    
+}
+.veg1{
+    width:56px;
+    height:56px;
+}
+.certified-back{
+    background-color: aliceblue;
+    height:100%;
+    background-size: cover;
+}
+.farmer-image{
+ border-radius:12px;
+ border-width: 2px;
+ border-style: solid;
+ border-color:green;
+}
+input{
+    border-radius: 8px;
+    height:50px;
+    width:90%;
+    padding:10px;
+}
+.footer-section{
+    background-color: #22577a;
+    background-size: cover;
+    font-size:30px;
+}
+.fixed-nav{
+    position:sticky;
+   
+}
+img:hover{
+    animation: pulse;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
